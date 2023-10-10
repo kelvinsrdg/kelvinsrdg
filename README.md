@@ -7,7 +7,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsrdg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/kelvinsrdg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kelvinsrdg/kelvinsrdg/blob/output/github-contribution-grid-snake.svg)
           
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kelvin-da-silva-rodrigues-592948248/) 
