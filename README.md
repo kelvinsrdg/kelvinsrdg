@@ -1,5 +1,5 @@
 ## Hi there! 👋
-### 🧐 I am a Information Technology enthusiast and i'm looking to improve my knolewdge and experiences!
+### 🧐 I am a Information Technology enthusiast and i'm looking to improve my knolewdge and experiences about this area!
 ### 💼 I'm an intern in a Software Verification Laboratory at LABELO - PUCRS.
 
 
