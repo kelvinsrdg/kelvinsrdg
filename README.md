@@ -3,7 +3,7 @@
 ### 💼 I'm an intern in a Software Verification Laboratory at LABELO - PUCRS.
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/kelvinsrdg">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsrdg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
