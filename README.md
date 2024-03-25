@@ -1,6 +1,6 @@
 ## Hi there! 👋
-### 🧐 I am a Information Technology enthusiast and i'm looking to improve my knolewdge and experiences about this area!
-### 💼 I'm an intern in a Software Verification Laboratory at LABELO - PUCRS.
+### 🧐 I am a Information Technology enthusiast and i'm looking to improve my knowledge and experiences about this area!
+### 💼 I'm a laboratory assistant in a Software Verification Laboratory at LABELO - PUCRS.
 
 <div>
 <a href="https://github.com/kelvinsrdg">
