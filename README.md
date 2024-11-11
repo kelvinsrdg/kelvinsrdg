@@ -25,7 +25,7 @@ Atualmente sou Assistente de Laboratório de Software no LABELO-PUCRS e estou cu
 
 ---
 
-## ⭐ Github stats
+## ⭐ GitHub stats
 
 <div>
 <a href="https://github.com/kelvinsrdg">
