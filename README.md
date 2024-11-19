@@ -1,11 +1,8 @@
 ##  Olá, meu nome é Kelvin! 👻
 
-Atualmente sou Assistente de Laboratório de Software no LABELO-PUCRS e estou cursando Análise e Desenvolvimento de Sistemas!
+🔭 Atualmente sou Assistente de Laboratório de Software no LABELO-PUCRS e estou cursando Análise e Desenvolvimento de Sistemas!
 
-🔭 Iniciei os estudos através do front-end baseado em Desenvolvimento WEB e atualmente estou estudando os frameworks Vue.JS e Laravel, conciliado com outras tecnologias que abrangem também o back-end.
-
-💬 Para contato:
-
+💬 Quer bater um papo sobre tecnologia? Me chama no LinkedIn:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kelvinsrdg/) 
 
