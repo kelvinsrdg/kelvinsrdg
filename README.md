@@ -1,6 +1,6 @@
 ##  Olá, meu nome é Kelvin! 👻
 
-🔭 Atualmente sou Assistente de Laboratório de Software no LABELO-PUCRS e estou cursando Análise e Desenvolvimento de Sistemas!
+🔭 Atualmente sou Analista de P&D na Criffer e estou cursando Análise e Desenvolvimento de Sistemas!
 
 💬 Quer bater um papo sobre tecnologia? Me chama no LinkedIn:
 
